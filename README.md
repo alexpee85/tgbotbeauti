@@ -4,6 +4,30 @@ Telegram-бот для записи клиентов на приём: выбор
 
 Ссылка на бота: @ZapisCosmetologBot
 
+Скриншоты
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://#" alt="Диалог с ботом в ТГ" width="200" />
+        <br><i>Скриншот 1: Диалог с ботом в ТГ</i>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://#" alt="Диалог с ботом в ТГ" width="200" />
+        <br><i>Скриншот 2: Диалог с ботом в ТГ</i>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://#" alt="Диалог с ботом в ТГ" width="200" />
+        <br><i>Скриншот 3: Диалог с ботом в ТГ</i>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://#" alt="Запись в календарь" width="200" />
+        <br><i>Скриншот 4: Запись в календарь</i>
+      </td>
+    </tr>
+  </table>
+  <p><i>Рисунок: Пример пути клиента в Telegram-боте «БОГЕЛИКА».</i></p>
+</div>
 ---
 
 ## Реализованные функции
