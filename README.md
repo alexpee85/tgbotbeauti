@@ -9,24 +9,76 @@ Telegram-бот для записи клиентов на приём: выбор
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://#" alt="Диалог с ботом в ТГ" width="200" />
-        <br><i>Скриншот 1: Диалог с ботом в ТГ</i>
+        <img src="https://github.com/alexpee85/tgbotbeauti/blob/main/tg_bot_beauti_0.jpg" alt="Описание бота в ТГ" width="150" />
+        <br><i>Скриншот 1: Описание бота</i>
       </td>
       <td align="center" width="33%">
-        <img src="https://#" alt="Диалог с ботом в ТГ" width="200" />
+        <img src="https://github.com/alexpee85/tgbotbeauti/blob/main/tg_bot_beauti_1.jpg" alt="Диалог с ботом в ТГ" width="150" />
         <br><i>Скриншот 2: Диалог с ботом в ТГ</i>
       </td>
       <td align="center" width="33%">
-        <img src="https://#" alt="Диалог с ботом в ТГ" width="200" />
+        <img src="https://github.com/alexpee85/tgbotbeauti/blob/main/tg_bot_beauti_2.jpg" alt="Диалог с ботом в ТГ" width="150" />
         <br><i>Скриншот 3: Диалог с ботом в ТГ</i>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://#" alt="Запись в календарь" width="200" />
-        <br><i>Скриншот 4: Запись в календарь</i>
       </td>
     </tr>
   </table>
-  <p><i>Рисунок: Пример пути клиента в Telegram-боте «БОГЕЛИКА».</i></p>
+    <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://github.com/alexpee85/tgbotbeauti/blob/main/tg_bot_beauti_3.jpg" alt="Описание бота в ТГ" width="150" />
+        <br><i>Скриншот 4: Диалог с ботом в ТГ</i>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/alexpee85/tgbotbeauti/blob/main/tg_bot_beauti_4.jpg" alt="Диалог с ботом в ТГ" width="150" />
+        <br><i>Скриншот 5: Диалог с ботом в ТГ</i>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/alexpee85/tgbotbeauti/blob/main/tg_bot_beauti_5.jpg" alt="Диалог с ботом в ТГ" width="150" />
+        <br><i>Скриншот 6: Диалог с ботом в ТГ</i>
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://github.com/alexpee85/tgbotbeauti/blob/main/tg_bot_beauti_6.jpg" alt="Описание бота в ТГ" width="150" />
+        <br><i>Скриншот 7: Диалог с ботом в ТГ</i>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/alexpee85/tgbotbeauti/blob/main/tg_bot_beauti_7.jpg" alt="Диалог с ботом в ТГ" width="150" />
+        <br><i>Скриншот 8: Диалог с ботом в ТГ</i>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/alexpee85/tgbotbeauti/blob/main/tg_bot_beauti_9.jpg" alt="Диалог с ботом в ТГ" width="150" />
+        <br><i>Скриншот 9: Диалог с ботом в ТГ</i>
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://github.com/alexpee85/tgbotbeauti/blob/main/tg_bot_beauti_10.jpg" alt="Описание бота в ТГ" width="150" />
+        <br><i>Скриншот 10: Диалог с ботом в ТГ</i>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/alexpee85/tgbotbeauti/blob/main/tg_bot_beauti_11.jpg" alt="Диалог с ботом в ТГ" width="150" />
+        <br><i>Скриншот 11: Диалог с ботом в ТГ</i>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/alexpee85/tgbotbeauti/blob/main/tg_bot_beauti_12.jpg" alt="Диалог с ботом в ТГ" width="150" />
+        <br><i>Скриншот 12: Диалог с ботом в ТГ</i>
+      </td>
+    </tr>
+  </table>
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://github.com/alexpee85/tgbotbeauti/blob/main/tg_bot_beauti_adminka.jpg" alt="Описание бота в ТГ" width="300" />
+        <br><i>Скриншот 13: Админка</i>
+      </td>
+    </tr>
+  </table>
+  <p><i>Рисунок: Пример пути клиента в Telegram-боте</i></p>
 </div>
 ---
 
